@@ -2,15 +2,15 @@
 
 const burgers = ["hambuguers, Cheeseburguers."];
 
-let featuredDrink = "Starwberry Milkshake";
+let featuredDrink = "Strawberry Milkshake";
 
 function addBurguer() {
     const newBurger = "Flatburger"
     burgers.push(newBurger);
 }
     if (true) {
-    const anothernewBurguer = "Maple Bacon Burguer";
-    burguers.push(anothernewBurguer)
+    const anothernewBurger = "Maple Bacon Burguer";
+    burgers.push(anothernewBurger)
    
 
 
